@@ -1,0 +1,18 @@
+body {
+  background-color: #ffe4e1;
+  color: #0000ff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button {
+  background-color: orange;
+  color:black;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: gray;
+}
+input{
+  height: 20px;
+}
